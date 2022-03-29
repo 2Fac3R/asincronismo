@@ -12,5 +12,8 @@
     "async"
   ],
   "author": "Gustavo Navarro",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
